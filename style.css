@@ -1,0 +1,86 @@
+h1 {
+	font-size: 56px;
+	color: #09DBDB;
+}
+
+.drumpf {
+	color: black;
+	margin-top: -20px;
+	font-size: 18px;
+}
+
+#top {
+	background-color: #7979F2;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin: -3%;
+}
+
+#problem {
+	font-size: 68px;
+	color: #09DBDB;
+	padding-top: 25px;
+
+}
+
+button {
+	background-color: #7979F2;
+	font-size: 28px;
+	color: black;
+	box-shadow: 2px 2px 2px #09DBDB;
+	margin: 5px;
+	border: 2px solid gray;
+}
+body {
+	background-color: black;
+	color: white;
+	text-align: center;
+	
+
+}
+
+input {
+	font-size: 48px;
+}
+
+#done {
+	padding-top: 24px;
+
+}
+
+#answerBox {
+	border: 3px solid #09DBDB;
+	padding: 2px 30px 2px 30px;
+}
+
+#message {
+	font-size: 28px;
+	color: #7979F2;
+	padding-top: 20px;
+}
+
+#skip {
+	margin-top: 40px;
+	background-color: #09DBDB;
+	box-shadow: 2px 2px 2px #7979F2;
+}
+
+#clear {
+	background-color: #09DBDB;
+	box-shadow: 2px 2px 2px #7979F2;
+}
+
+#submit {
+	background-color: #09DBDB;
+	box-shadow: 2px 2px 2px #7979F2;
+}
+
+#answerPad {
+	padding-top: 10px;
+	animation-delay: 2s;
+}
+
+footer {
+	margin-top: 70px;
+	color: #7979F2;
+}
